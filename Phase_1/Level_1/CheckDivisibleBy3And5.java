@@ -1,4 +1,4 @@
-package Phase_1;
+package Phase_1.Level_1;
 import java.util.Scanner;
 public class CheckDivisibleBy3And5 {
     public static void main(String[] args){

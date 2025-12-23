@@ -1,5 +1,5 @@
 // 8. Take a temperature value and print “Cold”, “Warm”, or “Hot” using range conditions.
-package Phase_1;
+package Phase_1.Level_1;
 import java.util.Scanner;
 
 public class CheckTemperatureRange {

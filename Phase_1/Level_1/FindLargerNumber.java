@@ -1,6 +1,6 @@
 // 6. Take two numbers and print the larger one.
 
-package Phase_1;
+package Phase_1.Level_1;
 
 import java.util.Scanner;
 
