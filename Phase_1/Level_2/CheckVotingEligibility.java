@@ -1,4 +1,4 @@
-// Check voting eligibility for a given age (18+). give only file name
+//7. Check voting eligibility for a given age (18+). give only file name
 package Phase_1.Level_2;
 
 import java.util.Scanner;
