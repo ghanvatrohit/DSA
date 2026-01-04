@@ -1,4 +1,4 @@
-// git commit -m "Add program to print even numbers between 1 and 100"
+// 3. Print all odd numbers between 1 and 100.
 package Phase_2;
 
 public class PrintOddNumbers1To100 {
