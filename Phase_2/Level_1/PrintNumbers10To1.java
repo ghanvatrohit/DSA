@@ -1,5 +1,5 @@
 // 4. Print numbers from 10 down to 1.
-package Phase_2;
+package Phase_2.Level_1;
 
 public class PrintNumbers10To1 {
     public static void main(String[] args) {

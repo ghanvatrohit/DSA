@@ -1,5 +1,5 @@
 // 8. Print the sum of all odd numbers up to n.
-package Phase_2;
+package Phase_2.Level_1;
 
 import java.util.Scanner;
 

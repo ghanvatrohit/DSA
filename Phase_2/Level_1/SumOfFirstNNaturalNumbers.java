@@ -1,5 +1,5 @@
 // 6. Print the sum of first n natural numbers.
-package Phase_2;
+package Phase_2.Level_1;
 
 import java.util.Scanner;
 

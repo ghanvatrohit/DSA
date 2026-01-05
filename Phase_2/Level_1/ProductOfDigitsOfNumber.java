@@ -1,5 +1,5 @@
 // 10.Print the product of digits of a given number.
-package Phase_2;
+package Phase_2.Level_1;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // 5. Print the table of a given number (n × 1 to n × 10).
-package Phase_2;
+package Phase_2.Level_1;
 import java.util.Scanner;
 
 public class PrintMultiplicationTable {

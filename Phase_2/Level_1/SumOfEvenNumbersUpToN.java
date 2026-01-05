@@ -1,5 +1,5 @@
 //7. Print the sum of all even numbers up to n.
-package Phase_2;
+package Phase_2.Level_1;
 
 import java.util.Scanner;
 

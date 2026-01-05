@@ -1,5 +1,5 @@
 // 9. Print the factorial of a given number.
-package Phase_2;
+package Phase_2.Level_1;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // 3. Print all odd numbers between 1 and 100.
-package Phase_2;
+package Phase_2.Level_1;
 
 public class PrintOddNumbers1To100 {
     public static void main(String[] args) {
