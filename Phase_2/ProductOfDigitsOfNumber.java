@@ -1,3 +1,4 @@
+// 10.Print the product of digits of a given number.
 package Phase_2;
 
 import java.util.Scanner;
