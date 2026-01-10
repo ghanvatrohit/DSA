@@ -1,3 +1,4 @@
+// 6. Print all factors of a given number.
 package Phase_2.Level_3;
 import java.util.Scanner;
 
