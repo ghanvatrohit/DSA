@@ -1,4 +1,3 @@
-package Practice;
 import java.util.Scanner;
 // 153 = 1^3 + 5^3 + 3^3  (input == output)
 public class ArmstrongNumber {
