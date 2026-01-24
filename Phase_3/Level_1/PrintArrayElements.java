@@ -1,5 +1,5 @@
 // 1. Input n and take n integers into an array; print them
-package Phase_3;
+package Phase_3.Level_1;
 import java.util.Scanner;
 
 public class PrintArrayElements {

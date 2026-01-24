@@ -1,5 +1,5 @@
 // 7. Count how many elements are even and odd.
-package Phase_3;
+package Phase_3.Level_1;
 
 import java.util.Scanner;
 
