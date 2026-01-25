@@ -1,3 +1,4 @@
+// 2. Count how many times a given element appears.
 package Phase_3.Level_2;
 import java.util.Scanner;
 
